@@ -1,2 +1,3 @@
-# TS-AMA
-Show me your typescript playground link.
+<p>
+  <img src="./TypeScript.png" />
+</p>
